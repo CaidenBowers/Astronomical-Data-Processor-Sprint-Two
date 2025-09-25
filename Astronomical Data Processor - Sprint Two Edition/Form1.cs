@@ -194,4 +194,3 @@ namespace Astronomical_Data_Processor
         }
     }
 }
-//Does it work now?
