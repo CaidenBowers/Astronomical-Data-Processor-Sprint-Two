@@ -1,0 +1,1 @@
+This program will generate 24 random numbers to then be sorted by the Bubble Sort algorithm. The program uses the Binary algorithm to search through the generated numbers and allow changes to be made to that variable

@@ -1,0 +1,11 @@
+D:\Cluster - C# One\C# Work\Astronomical Data Processor\bin\Debug\Astronomical Data Processor.exe.config
+D:\Cluster - C# One\C# Work\Astronomical Data Processor\bin\Debug\Astronomical Data Processor.exe
+D:\Cluster - C# One\C# Work\Astronomical Data Processor\bin\Debug\Astronomical Data Processor.pdb
+D:\Cluster - C# One\C# Work\Astronomical Data Processor\obj\Debug\Astronomical Data Processor.csproj.AssemblyReference.cache
+D:\Cluster - C# One\C# Work\Astronomical Data Processor\obj\Debug\Astronomical_Data_Processor.AstroDataProcess.resources
+D:\Cluster - C# One\C# Work\Astronomical Data Processor\obj\Debug\Astronomical_Data_Processor.Properties.Resources.resources
+D:\Cluster - C# One\C# Work\Astronomical Data Processor\obj\Debug\Astronomical Data Processor.csproj.GenerateResource.cache
+D:\Cluster - C# One\C# Work\Astronomical Data Processor\obj\Debug\Astronomical Data Processor.csproj.CoreCompileInputs.cache
+D:\Cluster - C# One\C# Work\Astronomical Data Processor\obj\Debug\Astronomical Data Processor.exe
+D:\Cluster - C# One\C# Work\Astronomical Data Processor\obj\Debug\Astronomical Data Processor.pdb
+D:\Cluster - C# One\C# Work\Astronomical Data Processor\obj\Debug\Astronomical Data Processor.exe.config
